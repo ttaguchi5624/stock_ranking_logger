@@ -1,0 +1,8 @@
+2026-02-18 22:30:23 [INFO] Market Date: 2026/02/17 (EST)
+2026-02-18 22:30:23 [INFO] Fetching from NASDAQ API...
+2026-02-18 22:30:23 [ERROR] Data fetch error: <urlopen error unknown url type: https>
+2026-02-18 22:30:23 [ERROR] Failed to fetch data.
+2026-02-18 22:32:45 [INFO] Market Date: 2026/02/17 (EST)
+2026-02-18 22:32:45 [INFO] Fetching from NASDAQ API (using curl)...
+2026-02-18 22:32:49 [INFO] Fetched 6990 items.
+2026-02-18 22:32:49 [INFO] Saved to stock_rankings_log.txt.
