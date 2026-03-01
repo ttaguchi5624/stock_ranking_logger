@@ -1,8 +1,8 @@
-name: Auto Stock Logger
 on: [workflow_dispatch]
+name: Auto Stock Logger
 jobs:
-  run-logger:
+  job1:
       runs-on: ubuntu-latest
           steps:
-                - run: echo "Test"
+                - run: echo 1
                 
