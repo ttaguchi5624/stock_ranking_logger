@@ -7,7 +7,7 @@ import os
 import sys
 import logging
 
-# ログ設定: 標準出力(GitHub Actionsの画面)とファイルの両方に出力
+# ログ設定 (GitHub Actions / Local)
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
