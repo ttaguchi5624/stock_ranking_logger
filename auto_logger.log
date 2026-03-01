@@ -6,3 +6,7 @@
 2026-02-18 22:32:45 [INFO] Fetching from NASDAQ API (using curl)...
 2026-02-18 22:32:49 [INFO] Fetched 6990 items.
 2026-02-18 22:32:49 [INFO] Saved to stock_rankings_log.txt.
+2026-03-01 16:33:05,073 - INFO - --- 処理開始 ---
+2026-03-01 16:33:05,073 - INFO - NASDAQ API からデータを取得中...
+2026-03-01 16:33:08,542 - INFO - データを stock_rankings_log.txt に追記しました。
+
