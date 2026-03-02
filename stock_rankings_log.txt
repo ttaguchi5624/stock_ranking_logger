@@ -23,3 +23,17 @@ META      Meta Platforms, Inc. Class A Common Stock        $648.18             -
 AVGO      Broadcom Inc. Common Stock                       $319.55             -2.15  -0.668%     1,515,074,042,470
 TSLA      Tesla, Inc. Common Stock                         $402.51             -6.07  -1.486%     1,510,391,397,880
 --------------------------------------------------
+
+[2026-03-02 21:55:55 UTC]
+Ticker    Company Name                                     Last Sale      Net Change  % Change    Market Cap
+NVDA      NVIDIA Corporation Common Stock                  $182.48              5.29  2.985%      4,434,264,000,000
+AAPL      Apple Inc. Common Stock                          $264.72              0.54  0.204%      3,886,391,380,800
+GOOGL     Alphabet Inc. Class A Common Stock               $306.52             -5.24  -1.681%     3,707,972,440,000
+GOOG      Alphabet Inc. Class C Capital Stock              $306.36             -5.07  -1.628%     3,706,036,920,000
+MSFT      Microsoft Corporation Common Stock               $398.55              5.81  1.479%      2,959,484,468,240
+AMZN      Amazon.com, Inc. Common Stock                    $208.39             -1.61  -0.767%     2,237,050,160,099
+TSM       Taiwan Semiconductor Manufacturing Company Ltd.  $369.11             -5.47  -1.46%      1,914,406,233,243
+META      Meta Platforms, Inc. Class A Common Stock        $653.56              5.38  0.83%       1,653,216,269,052
+TSLA      Tesla, Inc. Common Stock                         $403.32              0.81  0.201%      1,513,430,867,787
+AVGO      Broadcom Inc. Common Stock                       $318.82             -0.73  -0.228%     1,511,612,912,597
+--------------------------------------------------
