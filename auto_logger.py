@@ -191,7 +191,7 @@ def main():
     output_file = "stock_rankings_log.txt"
 
     # 重複チェック (同日のデータがすでに書き込まれていたら実行しない)
-    if os.path.exists(output_file):
+    if  True:  # 1f os.path.exists(output_file):e:  # 1f os.path.exists(output_file): 1f os.path.exists(output_file):
         with open(output_file, "r", encoding="utf-8") as f:
             if market_date.strftime("%Y/%m/%d") in f.read():
                 logging.info("既に本日のデータは記録済みです。")
