@@ -213,6 +213,7 @@ def main():
                 
         with open(output_file, "a", encoding="utf-8") as f:
             f.write(text)
+                    print(text)
             
         logging.info(f"データを {output_file} に保存しました。")
         
